@@ -42,6 +42,24 @@ Users enter a time of day and receive a personalized social interaction suggesti
 - Helpful reference section showing all valid time inputs
 - Responsive scroll layout
 
+---
+
+## 📸 App Screenshots
+
+| Morning | Mid-Morning | Afternoon |
+|---|---|---|
+| ![Morning](screenshots/morning__20260330_142817.png) | ![Mid-Morning](screenshots/mid-morning__20260330_142922.png) | ![Afternoon](screenshots/afternoon__20260330_142851.png) |
+
+| Afternoon Snack Time | Dinner | Evening |
+|---|---|---|
+| ![Afternoon Snack Time](screenshots/afternoon_snack_time_20260330_143006.png) | ![Dinner](screenshots/dinner__20260330_142757.png) | ![Evening](screenshots/Evening___20260330_142714.png) |
+
+| Night |
+|---|
+| ![Night](screenshots/night__20260330_143043.png) |
+
+---
+
 ### 3. Error Handling
 - **Empty input detection**: Friendly prompt to enter a time of day
 - **Invalid input handling**: Clear message listing all valid options
