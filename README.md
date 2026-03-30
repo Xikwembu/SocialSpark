@@ -173,7 +173,7 @@ The app has been manually tested on the Android emulator to verify:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SocialSpark.git
+   git clone https://github.com/Xikwembu/SocialSpark.git
    ```
 2. Open the project in **Android Studio**
 3. Sync Gradle files
