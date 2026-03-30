@@ -65,6 +65,10 @@ Users enter a time of day and receive a personalized social interaction suggesti
 - **Invalid input handling**: Clear message listing all valid options
 - **Color-coded feedback**: Red for errors, default for valid suggestions
 
+| Empty Input Error | Invalid Input Error |
+|---|---|
+| ![Empty Input](screenshots/Error_Handling_20260330_151217.png) | ![Invalid Input](screenshots/Hello_Error_Handling_20260330_151117.png) |
+
 ### 4. Reset Functionality
 - One-tap reset button clears all input and output fields
 - Returns the app to its initial welcoming state
